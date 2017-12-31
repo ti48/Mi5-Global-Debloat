@@ -1,9 +1,8 @@
-# Magisk Module Template
+# Mi5 Global Stable Debloat
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+The aim of this mod to bring optimizations that are present in MIUI EU, PRO and Epic ROM systemlessly to
+Global Stable version.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+# Changelog
+v1 Initial debloat of bloated ROM
