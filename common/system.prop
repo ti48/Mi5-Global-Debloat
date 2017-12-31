@@ -1,3 +1,6 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+# add background blurr to MultiTasking window
+ro.miui.has_real_blur=0
+ro.miui.has_blur=1
