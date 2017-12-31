@@ -5,4 +5,4 @@ Global Stable version.
 
 
 # Changelog
-v1 Initial debloat of bloated ROM
+v1 Initial debloat of bloated Global Stable ROM
