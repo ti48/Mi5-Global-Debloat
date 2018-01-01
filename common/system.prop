@@ -8,3 +8,9 @@ ro.miui.has_blur=1
 # MIUI 8 fingerprint for device certied status in play store, MIUI 9 is stll showing uncertified
 ro.build.fingerprint=Xiaomi/gemini/gemini:7.0/NRD90M/V8.2.2.0.NAAMIEB:user/release-keys
 ro.build.description=gemini-user 7.0 NRD90M V8.2.2.0.NAAMIEB release-keys
+
+#Camera MODs (better image quality)
+ro.media.enc.jpeg.quality=100
+ro.media.enc.hprof.vid.fps=65
+ro.media.dec.jpeg.memcap=8000000
+ro.media.enc.hprof.vid.bps=8000000

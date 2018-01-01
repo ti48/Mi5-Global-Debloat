@@ -12,3 +12,5 @@ v1      Initial debloat of bloated Global Stable ROM
 v1.1    Add background blurr to Multitasking window
 
 v1.2    MIUI 8 fingerprint for Play store certification
+
+v1.3    Camera MODs (better image quality)
