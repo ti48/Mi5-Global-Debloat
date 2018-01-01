@@ -4,3 +4,7 @@
 # add background blurr to MultiTasking window
 ro.miui.has_real_blur=0
 ro.miui.has_blur=1
+
+# MIUI 8 fingerprint for device certied status in play store, MIUI 9 is stll showing uncertified
+ro.build.fingerprint=Xiaomi/gemini/gemini:7.0/NRD90M/V8.2.2.0.NAAMIEB:user/release-keys
+ro.build.description=gemini-user 7.0 NRD90M V8.2.2.0.NAAMIEB release-keys
