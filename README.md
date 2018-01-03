@@ -16,3 +16,5 @@ v1.2    MIUI 8 fingerprint for Play store certification
 v1.3    Camera MODs (better image quality)
 
 v1.4    Advanced Power Menu
+
+v1.5    Dalvik speed mode, telephone ring delay
