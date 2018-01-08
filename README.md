@@ -18,3 +18,5 @@ v1.3    Camera MODs (better image quality)
 v1.4    Advanced Power Menu
 
 v1.5    Dalvik speed mode, telephone ring delay
+
+v1.6    Modified default icons, modified music and sytem laypout
