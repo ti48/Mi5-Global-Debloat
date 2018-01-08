@@ -29,3 +29,5 @@ ro.bluetooth.request.master=true
 
 # Enable Camera2 API
 persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
+persist.camera.is_mode=4

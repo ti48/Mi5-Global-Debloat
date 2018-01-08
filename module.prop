@@ -1,7 +1,7 @@
 id=mi5-global-debloat
 name=Mi5 Global Stable Debloat
-version=v1.7
-versionCode=8
+version=v1.8
+versionCode=9
 author=chhapil
 description=This module will debloat & Optimize the Global Stable MIUI version for Mi5
 minMagisk=1500
