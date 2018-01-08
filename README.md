@@ -24,3 +24,5 @@ v1.6    Modified default icons, modified music and sytem laypout
 v1.7    Enable Camera2 API, Bluetooth Fixes
 
 v1.8    Additional Gcam fixes
+
+v1.9    Additional media profiles revert
