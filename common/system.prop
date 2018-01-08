@@ -22,3 +22,10 @@ ring.delay=0
 # Dalvik mode
 dalvik.vm.image-dex2oat-filter=speed
 dalvik.vm.dex2oat-filter=speed
+
+# Bluetooth Fixes
+ro.bluetooth.remote.autoconnect=true
+ro.bluetooth.request.master=true
+
+# Enable Camera2 API
+persist.camera.HAL3.enabled=1

@@ -20,3 +20,5 @@ v1.4    Advanced Power Menu
 v1.5    Dalvik speed mode, telephone ring delay
 
 v1.6    Modified default icons, modified music and sytem laypout
+
+v1.7    Enable Camera2 API, Bluetooth Fixes
