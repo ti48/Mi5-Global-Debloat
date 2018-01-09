@@ -29,3 +29,5 @@ v1.9    Additional media profiles revert
 
 v2.0	revert fixes
 
+v2.1	Debugging Notification turned off
+
