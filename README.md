@@ -26,3 +26,6 @@ v1.7    Enable Camera2 API, Bluetooth Fixes
 v1.8    Additional Gcam fixes
 
 v1.9    Additional media profiles revert
+
+v2.0	revert fixes
+

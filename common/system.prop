@@ -27,7 +27,8 @@ dalvik.vm.dex2oat-filter=speed
 ro.bluetooth.remote.autoconnect=true
 ro.bluetooth.request.master=true
 
-# Enable Camera2 API
-persist.camera.HAL3.enabled=1
-persist.camera.eis.enable=1
-persist.camera.is_mode=4
+# Enable Camera2 API, this is causing front camera to rotate
+#persist.camera.HAL3.enabled=1
+#persist.camera.eis.enable=1
+#persist.camera.is_mode=4
+
