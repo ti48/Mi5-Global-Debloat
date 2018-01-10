@@ -31,3 +31,5 @@ v2.0	revert fixes
 
 v2.1	Debugging Notification turned off
 
+v2.2	Direct Service and Hybrid Accessory Apps debloated
+
