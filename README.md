@@ -33,3 +33,4 @@ v2.1	Debugging Notification turned off
 
 v2.2	Direct Service and Hybrid Accessory Apps debloated
 
+v2.3    MIUI 8 fingerprint removed, play store now good with v9.1 
