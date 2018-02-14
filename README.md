@@ -33,4 +33,6 @@ v2.1	Debugging Notification turned off
 
 v2.2	Direct Service and Hybrid Accessory Apps debloated
 
-v2.3    MIUI 8 fingerprint removed, play store now good with v9.1 
+v2.3    MIUI 8 fingerprint removed, play store now good with v9.1
+
+v2.4    preparing for Mi5 9.2, disabling some features, will bring them back once epic ROM releases it
