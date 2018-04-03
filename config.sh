@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Mi5 Global Stable Debloat    "
+  ui_print "*  mi6 global stable debloat  *"
   ui_print "*******************************"
 }
 
@@ -53,12 +53,12 @@ print_modname() {
 # Check the documentations for more info about how Magic Mount works, and why you need this
 
 # This is an example
-REPLACE="
-/system/app/Youtube
-/system/priv-app/SystemUI
-/system/priv-app/Settings
-/system/framework
-"
+#REPLACE="
+#/system/app/Youtube
+#/system/priv-app/SystemUI
+#/system/priv-app/Settings
+#/system/framework
+#"
 
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
@@ -96,4 +96,3 @@ set_permissions() {
 # update-binary. Refrain from adding code directly into update-binary, as it will make it
 # difficult for you to migrate your modules to newer template versions.
 # Make update-binary as clean as possible, try to only do function calls in it.
-

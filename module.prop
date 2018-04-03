@@ -1,7 +1,7 @@
-id=mi5-global-debloat
-name=Mi5 Global Stable Debloat
-version=v2.4
+id=mi6-global-debloat
+name=mi6 global stable debloat
+version=v0.1
 versionCode=16
-author=chhapil
-description=This module will debloat & Optimize the Global Stable MIUI version for Mi5
-minMagisk=1500
+author=ti48
+description=Debloat MIUI global stable version for Mi 6
+minMagisk=1600
